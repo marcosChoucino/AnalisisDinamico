@@ -1,0 +1,73 @@
+"CreateFile""C:\ProgramData""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\""SUCCESS""Desired Access: Read Data/List Directory Synchronize
+"CreateFile""C:\Users\adudev\AppData\Local""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Users\adudev\AppData\Roaming""NAME COLLISION""Desired Access: Read Data/List Directory Synchronize
+"CreateFile""C:\Users\adudev\AppData\Roaming""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Users\adudev\Desktop\81e07c10df55869c204ade2eb2440b8a718e0ab0af513f6dfe105d51d3bdda73.exe.config""NAME NOT FOUND""Desired Access: Generic Read Disposition: Open
+"CreateFile""C:\Users\adudev\Desktop\81e07c10df55869c204ade2eb2440b8a718e0ab0af513f6dfe105d51d3bdda73.exe.config""NAME NOT FOUND""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Users\adudev\Desktop\81e07c10df55869c204ade2eb2440b8a718e0ab0af513f6dfe105d51d3bdda73.exe""SUCCESS""Desired Access: Generic Read Disposition: Open
+"CreateFile""C:\Users\adudev\Desktop\81e07c10df55869c204ade2eb2440b8a718e0ab0af513f6dfe105d51d3bdda73.exe""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Users\adudev\Desktop\81e07c10df55869c204ade2eb2440b8a718e0ab0af513f6dfe105d51d3bdda73.exe""SUCCESS""Desired Access: Read Control Disposition: Open
+"CreateFile""C:\Users\adudev\Desktop\81e07c10df55869c204ade2eb2440b8a718e0ab0af513f6dfe105d51d3bdda73.INI""NAME NOT FOUND""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Users\adudev\Desktop\GVHCXFJHSD766&&.exe""NAME NOT FOUND""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Users\adudev\Desktop\GVHCXFJHSD766&&\GVHCXFJHSD766&&.exe""PATH NOT FOUND""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Users\adudev\Desktop""SUCCESS""Desired Access: Execute/Traverse Synchronize
+"CreateFile""C:\Users\adudev\Desktop""SUCCESS""Desired Access: Read Data/List Directory Synchronize
+"CreateFile""C:\Users\adudev""NAME COLLISION""Desired Access: Read Data/List Directory Synchronize
+"CreateFile""C:\Users\adudev""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Users\adudev""SUCCESS""Desired Access: Read Data/List Directory Synchronize
+"CreateFile""C:\Users\Default\AppData\Roaming""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Users""SUCCESS""Desired Access: Read Data/List Directory Synchronize
+"CreateFile""C:\Windows\apppatch\sysmain.sdb""SUCCESS""Desired Access: Generic Read Disposition: Open
+"CreateFile""C:\Windows\assembly\GAC_32""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\assembly\GAC_32\System.resources""NAME NOT FOUND""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\assembly\GAC_64""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\assembly\GAC_64\System.resources""NAME NOT FOUND""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\assembly\GAC_ARM64""NAME NOT FOUND""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\assembly\GAC_MSIL""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\assembly\GAC_MSIL\System.Resources""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\assembly\GAC_MSIL\System.Resources""SUCCESS""Desired Access: Read Data/List Directory Synchronize
+"CreateFile""C:\Windows\assembly\GAC\PublisherPolicy.tme""NAME NOT FOUND""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\assembly\GAC""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\assembly\GAC\System.resources""NAME NOT FOUND""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\assembly\NativeImages_v4.0.30319_32\GVHCXFJHSD766""NAME NOT FOUND""Desired Access: Read Data/List Directory Synchronize
+"CreateFile""C:\Windows\assembly\NativeImages_v4.0.30319_32\mscorlib""SUCCESS""Desired Access: Read Data/List Directory Synchronize
+"CreateFile""C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Configuration""SUCCESS""Desired Access: Read Data/List Directory Synchronize
+"CreateFile""C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Core""SUCCESS""Desired Access: Read Data/List Directory Synchronize
+"CreateFile""C:\Windows\assembly\NativeImages_v4.0.30319_32\System.resources""NAME NOT FOUND""Desired Access: Read Data/List Directory Synchronize
+"CreateFile""C:\Windows\assembly\NativeImages_v4.0.30319_32\System""SUCCESS""Desired Access: Read Data/List Directory Synchronize
+"CreateFile""C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml""SUCCESS""Desired Access: Read Data/List Directory Synchronize
+"CreateFile""C:\Windows\assembly\pubpol1.dat""SUCCESS""Desired Access: Generic Read Disposition: Open
+"CreateFile""C:\Windows\Globalization\Sorting\SortDefault.nls""SUCCESS""Desired Access: Generic Read Disposition: Open
+"CreateFile""C:\Windows\Microsoft.NET\assembly\GAC_32""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\Microsoft.NET\assembly\GAC_32\System.resources""NAME NOT FOUND""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\Microsoft.NET\assembly\GAC_64""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\Microsoft.NET\assembly\GAC_64\System.resources""NAME NOT FOUND""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\Microsoft.NET\assembly\GAC_ARM64""NAME NOT FOUND""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\Microsoft.NET\assembly\GAC_MSIL""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.resources""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.resources""SUCCESS""Desired Access: Read Data/List Directory Synchronize
+"CreateFile""C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.resources\v4.0_4.0.0.0_es_b77a5c561934e089\System.resources.INI""NAME NOT FOUND""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\Microsoft.NET\assembly\GAC""NAME NOT FOUND""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\Microsoft.NET\Framework""SUCCESS""Desired Access: Read Data/List Directory Synchronize
+"CreateFile""C:\Windows\Microsoft.NET\Framework\v4.0.30319\Config\machine.config""SUCCESS""Desired Access: Generic Read Disposition: Open
+"CreateFile""C:\Windows\Microsoft.NET\Framework\v4.0.30319\Config\machine.config""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\Microsoft.NET\Framework\v4.0.30319\fusion.localgac""NAME NOT FOUND""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\Microsoft.NET\Framework\v4.0.30319""SUCCESS""Desired Access: Read Data/List Directory Synchronize
+"CreateFile""C:\Windows\Prefetch\81E07C10DF55869C204ADE2EB2440-D0037B50.pf""NAME NOT FOUND""Desired Access: Generic Read Disposition: Open
+"CreateFile""C:\Windows""SUCCESS""Desired Access: Execute/Traverse Synchronize
+"CreateFile""C:\Windows""SUCCESS""Desired Access: Read Attributes Synchronize
+"CreateFile""C:\Windows\SysWOW64\IPHLPAPI.DLL""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\SysWOW64\IPHLPAPI.DLL""SUCCESS""Desired Access: Read Control Disposition: Open
+"CreateFile""C:\Windows\SysWOW64\IPHLPAPI.DLL""SUCCESS""Desired Access: Read Data/List Directory Execute/Traverse
+"CreateFile""C:\Windows\SysWOW64\MSCOREE.DLL.local""NAME NOT FOUND""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\SysWOW64""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFile""C:\Windows\Temp""SUCCESS""Desired Access: Read Attributes Disposition: Open
+"CreateFileMapping""C:\Users\adudev\Desktop\81e07c10df55869c204ade2eb2440b8a718e0ab0af513f6dfe105d51d3bdda73.exe""FILE LOCKED WITH ONLY READERS""SyncType: SyncTypeCreateSection PageProtection: PAGE_EXECUTE_READWRITE|PAGE_NOCACHE"
+"CreateFileMapping""C:\Users\adudev\Desktop\81e07c10df55869c204ade2eb2440b8a718e0ab0af513f6dfe105d51d3bdda73.exe""SUCCESS""SyncType: SyncTypeOther"
+"CreateFileMapping""C:\Windows\apppatch\sysmain.sdb""FILE LOCKED WITH ONLY READERS""SyncType: SyncTypeCreateSection PageProtection: PAGE_EXECUTE_READWRITE|PAGE_NOCACHE"
+"CreateFileMapping""C:\Windows\apppatch\sysmain.sdb""SUCCESS""SyncType: SyncTypeOther"
+"CreateFileMapping""C:\Windows\Globalization\Sorting\SortDefault.nls""FILE LOCKED WITH ONLY READERS""SyncType: SyncTypeCreateSection PageProtection: PAGE_EXECUTE_READWRITE|PAGE_NOCACHE"
+"CreateFileMapping""C:\Windows\Globalization\Sorting\SortDefault.nls""SUCCESS""SyncType: SyncTypeOther"
+"CreateFileMapping""C:\Windows\SysWOW64\IPHLPAPI.DLL""FILE LOCKED WITH ONLY READERS""SyncType: SyncTypeCreateSection PageProtection: PAGE_EXECUTE_READWRITE|PAGE_NOCACHE"
+"CreateFileMapping""C:\Windows\SysWOW64\IPHLPAPI.DLL""SUCCESS""SyncType: SyncTypeOther"

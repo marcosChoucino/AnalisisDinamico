@@ -1,0 +1,5 @@
+"18:53:54,0660767","81e07c10df55869c204ade2eb2440b8a718e0ab0af513f6dfe105d51d3bdda73.exe","4784","TCP Reconnect","DESKTOP-7TDJLM5.Home:49721 -> 176.65.142.252:http","SUCCESS","Length: 0, seqnum: 0, connid: 0"
+"18:53:56,0814624","81e07c10df55869c204ade2eb2440b8a718e0ab0af513f6dfe105d51d3bdda73.exe","4784","TCP Reconnect","DESKTOP-7TDJLM5.Home:49721 -> 176.65.142.252:http","SUCCESS","Length: 0, seqnum: 0, connid: 0"
+"18:54:00,0815300","81e07c10df55869c204ade2eb2440b8a718e0ab0af513f6dfe105d51d3bdda73.exe","4784","TCP Reconnect","DESKTOP-7TDJLM5.Home:49721 -> 176.65.142.252:http","SUCCESS","Length: 0, seqnum: 0, connid: 0"
+"18:54:08,0964575","81e07c10df55869c204ade2eb2440b8a718e0ab0af513f6dfe105d51d3bdda73.exe","4784","TCP Reconnect","DESKTOP-7TDJLM5.Home:49721 -> 176.65.142.252:http","SUCCESS","Length: 0, seqnum: 0, connid: 0"
+"18:54:14,0970636","81e07c10df55869c204ade2eb2440b8a718e0ab0af513f6dfe105d51d3bdda73.exe","4784","TCP Disconnect","DESKTOP-7TDJLM5.Home:49721 -> 176.65.142.252:http","SUCCESS","Length: 0, seqnum: 0, connid: 0"
